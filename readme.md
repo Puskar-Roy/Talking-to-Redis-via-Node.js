@@ -5,7 +5,7 @@
   
  
 <a href="https://github.com/Puskar-Roy/Attendance-System---Backend">
-    <img src="https://assets.northflank.com/noderedis_bd32becbf1.png" alt="Logo" width="300" height="120">
+    <img src="https://assets.northflank.com/noderedis_bd32becbf1.png" alt="Logo" width="520" height="250">
   </a>
   
 <h3 align="center">Talking to redis via Node.js 💻 </h3>
